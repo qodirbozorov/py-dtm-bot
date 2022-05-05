@@ -1,0 +1,237 @@
+[
+  {
+    "nomi": "Samarqand Davlat Tibbiyot Instituti",
+    "otmID": "sammi",
+    "yunalishlar": [
+      {
+        "mvdir": 5510100,
+        "nomi": "Davolash ishi",
+        "gr_k": 24,
+        "con_k": 140,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5510200,
+        "nomi": "Pediatriya ishi",
+        "gr_k": 25,
+        "con_k": 100,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5510300,
+        "nomi": "Tibbiy profilaktika ishi",
+        "gr_k": 10,
+        "con_k": 30,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5510400,
+        "nomi": "Stomatologiya (yo‘nalishlar bo‘yicha)",
+        "gr_k": 40,
+        "con_k": 40,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5510500,
+        "nomi": "Farmatsiya (turlari bo‘yicha)",
+        "gr_k": 25,
+        "con_k": 30,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5510900,
+        "nomi": "Tibbiy-biologik ish",
+        "gr_k": 4,
+        "con_k": 8,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5511100,
+        "nomi": "Xalq tabobati ",
+        "gr_k": 7,
+        "con_k": 8,
+        "olimp": 0
+      }
+    ]
+  },
+  {
+    "nomi": "SamDU",
+    "otmID": "samdu",
+    "yunalishlar": [
+      {
+        "mvdir": 5140100,
+        "nomi": "Biologiya (turlari bo‘yicha)",
+        "gr_k": 8,
+        "con_k": 40,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5320500,
+        "nomi": "Biotexnologiya (tarmoqlar bo‘yicha)",
+        "gr_k": 15,
+        "con_k": 35,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5410100,
+        "nomi": "Agrokimyo va agrotuproqshunoslik",
+        "gr_k": 15,
+        "con_k": 35,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5410300,
+        "nomi": "O‘simliklarni himoya qilish (ekin turlari bo‘yicha)",
+        "gr_k": 15,
+        "con_k": 35,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5411000,
+        "nomi": "Mevachilik va uzumchilik",
+        "gr_k": 10,
+        "con_k": 15,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5411600,
+        "nomi": "Sabzavotchilik, polizchilik va kartoshkachilik",
+        "gr_k": 10,
+        "con_k": 15,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5411700,
+        "nomi": "Issiqxona xo‘jaligini tashkil etish va yuritish",
+        "gr_k": 10,
+        "con_k": 15,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5630100,
+        "nomi": "Ekologiya va atrof-muhit muhofazasi (tarmoqlar va sohalar bo‘yicha)",
+        "gr_k": 15,
+        "con_k": 35,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5140100220,
+        "nomi": "Biologiya (turlari bo‘yicha) (Nurobod tumani)",
+        "gr_k": 4,
+        "con_k": 0,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5140100225,
+        "nomi": "Biologiya (turlari bo‘yicha) (Qo`shrabot tumani)",
+        "gr_k": 3,
+        "con_k": 0,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5140500220,
+        "nomi": "Kimyo (turlari bo‘yicha) (Nurobod tumani)",
+        "gr_k": 8,
+        "con_k": 0,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5140500225,
+        "nomi": "Kimyo (turlari bo‘yicha) (Qo`shrabot tumani)",
+        "gr_k": 5,
+        "con_k": 0,
+        "olimp": 0
+      }
+    ]
+  },
+  {
+    "nomi": "Samarqand vetereaneriya va meditsina instituti",
+    "otmID": "vet",
+    "yunalishlar": [
+      {
+        "mvdir": 5140100,
+        "nomi": "Biologiya (turlari bo‘yicha)",
+        "gr_k": 8,
+        "con_k": 40,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5320500,
+        "nomi": "Biotexnologiya (tarmoqlar bo‘yicha)",
+        "gr_k": 15,
+        "con_k": 35,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5410100,
+        "nomi": "Agrokimyo va agrotuproqshunoslik",
+        "gr_k": 15,
+        "con_k": 35,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5410300,
+        "nomi": "O‘simliklarni himoya qilish (ekin turlari bo‘yicha)",
+        "gr_k": 15,
+        "con_k": 35,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5411000,
+        "nomi": "Mevachilik va uzumchilik",
+        "gr_k": 10,
+        "con_k": 15,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5411600,
+        "nomi": "Sabzavotchilik, polizchilik va kartoshkachilik",
+        "gr_k": 10,
+        "con_k": 15,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5411700,
+        "nomi": "Issiqxona xo‘jaligini tashkil etish va yuritish",
+        "gr_k": 10,
+        "con_k": 15,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5630100,
+        "nomi": "Ekologiya va atrof-muhit muhofazasi (tarmoqlar va sohalar bo‘yicha)",
+        "gr_k": 15,
+        "con_k": 35,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5140100220,
+        "nomi": "Biologiya (turlari bo‘yicha) (Nurobod tumani)",
+        "gr_k": 4,
+        "con_k": 0,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5140100225,
+        "nomi": "Biologiya (turlari bo‘yicha) (Qo`shrabot tumani)",
+        "gr_k": 3,
+        "con_k": 0,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5140500220,
+        "nomi": "Kimyo (turlari bo‘yicha) (Nurobod tumani)",
+        "gr_k": 8,
+        "con_k": 0,
+        "olimp": 0
+      },
+      {
+        "mvdir": 5140500225,
+        "nomi": "Kimyo (turlari bo‘yicha) (Qo`shrabot tumani)",
+        "gr_k": 5,
+        "con_k": 0,
+        "olimp": 0
+      }
+    ]
+  }
+]
